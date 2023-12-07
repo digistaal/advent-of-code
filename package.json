@@ -1,0 +1,11 @@
+{
+  "name": "2023-7",
+  "module": "part12",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
